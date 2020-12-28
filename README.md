@@ -149,7 +149,6 @@ Create a `ParticlesJS.vue` component in the `./src/components` folder. Add the f
         }
     }
 </script>
- No newline at end of file
 ```
 
 Then import that component wherever necessary:
